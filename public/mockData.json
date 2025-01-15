@@ -1,0 +1,178 @@
+[
+  {
+    "transactionId": 1,
+    "customerId": 101,
+    "name": "John Doe",
+    "purchaseDate": "2024-10-05",
+    "product": "Laptop",
+    "price": 1200.99
+  },
+  {
+    "transactionId": 2,
+    "customerId": 102,
+    "name": "Jane Smith",
+    "purchaseDate": "2024-10-12",
+    "product": "Headphones",
+    "price": 50
+  },
+  {
+    "transactionId": 3,
+    "customerId": 103,
+    "name": "Alice Cooper",
+    "purchaseDate": "2024-10-20",
+    "product": "Smartwatch",
+    "price": 199.99
+  },
+  {
+    "transactionId": 4,
+    "customerId": 101,
+    "name": "John Doe",
+    "purchaseDate": "2024-11-03",
+    "product": "Tablet",
+    "price": 150.75
+  },
+  {
+    "transactionId": 5,
+    "customerId": 102,
+    "name": "Jane Smith",
+    "purchaseDate": "2024-11-15",
+    "product": "Smartphone",
+    "price": 101
+  },
+  {
+    "transactionId": 6,
+    "customerId": 101,
+    "name": "John Doe",
+    "purchaseDate": "2024-12-10",
+    "product": "Gaming Console",
+    "price": 120
+  },
+  {
+    "transactionId": 7,
+    "customerId": 102,
+    "name": "Jane Smith",
+    "purchaseDate": "2024-12-18",
+    "product": "Wireless Mouse",
+    "price": 60.5
+  },
+  {
+    "transactionId": 8,
+    "customerId": 103,
+    "name": "Alice Cooper",
+    "purchaseDate": "2025-01-10",
+    "product": "Keyboard",
+    "price": 49.99
+  },
+  {
+    "transactionId": 9,
+    "customerId": 102,
+    "name": "Jane Smith",
+    "purchaseDate": "2025-01-01",
+    "product": "Monitor",
+    "price": 199.99
+  },
+  {
+    "transactionId": 10,
+    "customerId": 101,
+    "name": "John Doe",
+    "purchaseDate": "2025-01-05",
+    "product": "Webcam",
+    "price": 89.99
+  },
+  {
+    "transactionId": 11,
+    "customerId": 101,
+    "name": "John Doe",
+    "purchaseDate": "2024-10-03",
+    "product": "Printer",
+    "price": 250
+  },
+  {
+    "transactionId": 12,
+    "customerId": 101,
+    "name": "John Doe",
+    "purchaseDate": "2024-02-05",
+    "product": "External Hard Drive",
+    "price": 150.45
+  },
+  {
+    "transactionId": 13,
+    "customerId": 102,
+    "name": "Jane Smith",
+    "purchaseDate": "2024-12-20",
+    "product": "Desk Lamp",
+    "price": 45
+  },
+  {
+    "transactionId": 14,
+    "customerId": 102,
+    "name": "Jane Smith",
+    "purchaseDate": "2023-02-15",
+    "product": "Office Chair",
+    "price": 150
+  },
+  {
+    "transactionId": 15,
+    "customerId": 103,
+    "name": "Alice Cooper",
+    "purchaseDate": "2024-01-13",
+    "product": "Smart Speaker",
+    "price": 80
+  },
+  {
+    "transactionId": 16,
+    "customerId": 103,
+    "name": "Alice Cooper",
+    "purchaseDate": "2024-01-20",
+    "product": "Gaming Headset",
+    "price": 100
+  },
+  {
+    "transactionId": 17,
+    "customerId": 103,
+    "name": "Alice Cooper",
+    "purchaseDate": "2024-03-10",
+    "product": "Laptop Stand",
+    "price": 35
+  },
+  {
+    "transactionId": 18,
+    "customerId": 101,
+    "name": "John Doe",
+    "purchaseDate": "2024-02-15",
+    "product": "Docking Station",
+    "price": 120
+  },
+  {
+    "transactionId": 19,
+    "customerId": 101,
+    "name": "John Doe",
+    "purchaseDate": "2025-01-10",
+    "product": "USB Hub",
+    "price": 25
+  },
+  {
+    "transactionId": 20,
+    "customerId": 102,
+    "name": "Jane Smith",
+    "purchaseDate": "2022-08-25",
+    "product": "Noise Cancelling Headphones",
+    "price": 300
+  },
+  {
+    "transactionId": 21,
+    "customerId": 102,
+    "name": "Jane Smith",
+    "purchaseDate": "2024-07-27",
+    "product": "Fitness Tracker",
+    "price": 100
+  },
+  {
+    "transactionId": 22,
+    "customerId": 103,
+    "name": "Alice Cooper",
+    "purchaseDate": "2024-07-30",
+    "product": "Wireless Charger",
+    "price": 50
+  }
+]
